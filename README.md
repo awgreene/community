@@ -51,3 +51,8 @@ Discuss on:
 * Thursdays at 15:00 ET (Eastern Time) (biweekly). [Convert to your timezone](https://www.thetimezoneconverter.com/?t=3%3A00%20pm&tz=Eastern%20Time%20(ET)&)
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1Zuv-BoNFSwj10_zXPfaS9LWUQUCak2c8l48d0-AhpBw/edit)
   * Meeting recordings (coming soon!)
+
+### Operator Lifecycle Manager Feature Planning
+* Thursdays at 10:00 ET (Eastern Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28Eastern%20Time%29)
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1LMQ5QlEYgGBeSc75fhHh-VFJ8_B2j4ieBcagIa-QfwU/edit#)
+  * Meeting recordings (coming soon!)
